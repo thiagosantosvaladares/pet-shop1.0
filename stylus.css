@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;600&family=Raleway:ital,wght@0,100;0,400;0,600;0,800;1,100&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.link{
+    align-items: center;
+}
+
+header{
+    background-color: rgb(156, 211, 193);
+    padding: 10px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.all{
+    margin-left: 15%;
+}
+.img{
+    height: 110px;
+
+}
+.lin{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.head{
+    align-items: center;
+    display: flex;
+}
+
+.na{
+    padding: 30px;
+}
+
+.Destaques{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+
+}
+
+.dd img{
+    height: 200px;
+    margin: 30px;
+    padding: 30px;
+    background-color: rgb(156, 211, 193);
+    border-radius: 60px;
+    cursor: pointer;
+}
+
+.footer{
+    padding: 20px;
+
+}
+
+
+.all-footer{
+    background-color: rgb(156, 211, 193);
+    width: 100%;
+
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    display: block;
+    margin-bottom: 0px;
+}
+
+.text-footer{
+    text-align: end;
+}

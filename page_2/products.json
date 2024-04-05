@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name":" Especial Dog Premium o KG",
+        "price": 10.12,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Realidade High Premium o KG",
+        "price": 25.00,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Supreme Super Premium o KG",
+        "price": 17.99,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Fórmula Natural Life o KG",
+        "price": 12.50,
+        "image": "image/4.png"
+    }
+
+]

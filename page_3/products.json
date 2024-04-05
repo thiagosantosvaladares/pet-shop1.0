@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name":" Cama Pets",
+        "price": 23.22,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Gaiola Pet",
+        "price": 43.99,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Tapete Pet",
+        "price": 15.15,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Meus Pets Dog",
+        "price": 17.33,
+        "image": "image/4.png"
+    }
+
+]
